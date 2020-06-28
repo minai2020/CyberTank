@@ -12,4 +12,4 @@ autonomous multi role ground vehicle
 8. power supply for Arduino ( Power Bank)
 
 ## Circuit Diagram
-<img src="https://github.com/evilmind1/CyberTank/design/design.png "/>
+<img src="https://github.com/evilmind1/CyberTank/design/design.png"/>
