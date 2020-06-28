@@ -2,7 +2,7 @@
 autonomous multi role ground vehicle
 
 ## Components required 
-1. Huskylens AI camera
+1. Huskylens AI camera (get from DFrobot) - https://www.dfrobot.com/product-1922.html
 2. Arduino Mega
 3. L298N motor driver
 4. dc motor * 2
