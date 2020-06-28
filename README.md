@@ -11,5 +11,16 @@ autonomous multi role ground vehicle
 7. LiPo 2200Mah
 8. power supply for Arduino ( Power Bank)
 
+## Design
+
+![alt text](https://github.com/evilmind1/CyberTank/blob/master/design/design.png)
+
 ## Circuit Diagram
-<img src="https://github.com/evilmind1/CyberTank/design/design.png"/>
+
+![alt text](https://github.com/evilmind1/CyberTank/blob/master/design/Circuit/circuit%20diagram_bb.png)
+
+## Features
+1. Autonomous traffic rule follower
+2. Tag recognition navigation
+3. Human follower
+4. Lane follower
